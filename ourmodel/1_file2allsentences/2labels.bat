@@ -1,0 +1,21 @@
+file2allsentences.exe book/bookfile1.test book/output/bookfile1_1.test
+file2allsentences.exe book/bookfile1.train book/output/bookfile1_1.train
+file2allsentences.exe book/bookfile2.test book/output/bookfile1_2.test
+file2allsentences.exe book/bookfile2.train book/output/bookfile1_2.train
+file2allsentences.exe book/bookfile3.test book/output/bookfile1_3.test
+file2allsentences.exe book/bookfile3.train book/output/bookfile1_3.train
+file2allsentences.exe book/bookfile4.test book/output/bookfile1_4.test
+file2allsentences.exe book/bookfile4.train book/output/bookfile1_4.train
+file2allsentences.exe book/bookfile5.test book/output/bookfile1_5.test
+file2allsentences.exe book/bookfile5.train book/output/bookfile1_5.train
+file2allsentences.exe book/bookfile6.test book/output/bookfile1_6.test
+file2allsentences.exe book/bookfile6.train book/output/bookfile1_6.train
+file2allsentences.exe book/bookfile7.test book/output/bookfile1_7.test
+file2allsentences.exe book/bookfile7.train book/output/bookfile1_7.train
+file2allsentences.exe book/bookfile8.test book/output/bookfile1_8.test
+file2allsentences.exe book/bookfile8.train book/output/bookfile1_8.train
+file2allsentences.exe book/bookfile9.test book/output/bookfile1_9.test
+file2allsentences.exe book/bookfile9.train book/output/bookfile1_9.train
+file2allsentences.exe book/bookfile10.test book/output/bookfile1_10.test
+file2allsentences.exe book/bookfile10.train book/output/bookfile1_10.train
+pause
