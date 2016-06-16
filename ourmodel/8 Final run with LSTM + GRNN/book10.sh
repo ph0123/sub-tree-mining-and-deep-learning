@@ -1,0 +1,14 @@
+java -Xmx16g -jar rnn_load.jar  -embeddingLength 200 \
+ -embeddingFile book10vectors.txt \
+ -windowSizeWordLookup1 1 \
+ -windowSizeWordLookup2 2  \
+ -windowSizeWordLookup3 3  \
+ -outputLengthWordLookup 50  \
+ -classNum 2  \
+ -roundNum 100  \
+ -probThreshold 0.001  \
+ -learningRate 0.03  \
+ -randomizeBase -0.01  \
+ -trainFile book7_10.train  \
+ -testFile book7_10.test \
+ -flag 1
