@@ -1,0 +1,6 @@
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\bin\Debug\labeledfile.exe.config
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\bin\Debug\labeledfile.exe
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\bin\Debug\labeledfile.pdb
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\obj\Debug\labeledfile.csprojResolveAssemblyReference.cache
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\obj\Debug\labeledfile.exe
+Z:\phuong\newdata\ourmodel\process\4_labeledfile\labeledfile\labeledfile\labeledfile\obj\Debug\labeledfile.pdb

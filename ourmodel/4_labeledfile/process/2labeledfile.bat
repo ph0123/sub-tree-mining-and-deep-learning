@@ -1,0 +1,12 @@
+2labeledfile.exe book/bookfile1_1.trainmappingfile book/bookfile3_1.train label1bookfile4_1 label2bookfile4_1
+2labeledfile.exe book/bookfile1_2.trainmappingfile book/bookfile3_2.train label1bookfile4_2 label2bookfile4_2
+2labeledfile.exe book/bookfile1_3.trainmappingfile book/bookfile3_3.train label1bookfile4_3 label2bookfile4_3
+2labeledfile.exe book/bookfile1_4.trainmappingfile book/bookfile3_4.train label1bookfile4_4 label2bookfile4_4
+2labeledfile.exe book/bookfile1_5.trainmappingfile book/bookfile3_5.train label1bookfile4_5 label2bookfile4_5
+2labeledfile.exe book/bookfile1_6.trainmappingfile book/bookfile3_6.train label1bookfile4_6 label2bookfile4_6
+2labeledfile.exe book/bookfile1_7.trainmappingfile book/bookfile3_7.train label1bookfile4_7 label2bookfile4_7
+2labeledfile.exe book/bookfile1_8.trainmappingfile book/bookfile3_8.train label1bookfile4_8 label2bookfile4_8
+2labeledfile.exe book/bookfile1_9.trainmappingfile book/bookfile3_9.train label1bookfile4_9 label2bookfile4_9
+2labeledfile.exe book/bookfile1_10.trainmappingfile book/bookfile3_10.train label1bookfile4_10 label2bookfile4_10
+
+pause
