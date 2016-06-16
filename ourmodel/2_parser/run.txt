@@ -1,0 +1,2 @@
+java -Xmx1g -jar myparser.jar  -filenamein <input file> -filenameout <output file>
+pause
